@@ -1,3 +1,21 @@
+/* _content/Orthologick/Pages/Client.razor.rz.scp.css */
+.Container[b-2due01uzvu]{
+    display:flex;
+    justify-content:space-around;
+    padding: 40px
+}
+.box[b-2due01uzvu] {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding:10px;
+    border-radius:10px;
+    height: 200px;
+    width: 200px;
+    color: aqua;
+    background:#ffffff;
+}
+.img-card[b-2due01uzvu]{
+    width:100px
+}
 /* _content/Orthologick/Shared/MainLayout.razor.rz.scp.css */
 .page[b-3rs0tv3pvl] {
     position: relative;

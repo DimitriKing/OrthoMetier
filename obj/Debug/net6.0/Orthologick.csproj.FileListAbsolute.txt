@@ -25,3 +25,4 @@ D:\Project\Blazor\Orthologick\obj\Debug\net6.0\refint\Orthologick.dll
 D:\Project\Blazor\Orthologick\obj\Debug\net6.0\Orthologick.pdb
 D:\Project\Blazor\Orthologick\obj\Debug\net6.0\Orthologick.genruntimeconfig.cache
 D:\Project\Blazor\Orthologick\obj\Debug\net6.0\ref\Orthologick.dll
+D:\Project\Blazor\Orthologick\obj\Debug\net6.0\scopedcss\Pages\Client.razor.rz.scp.css
